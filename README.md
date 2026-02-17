@@ -21,7 +21,7 @@ Foco em simplicidade estrutural, uso de funções e fluxo linear de execução
 _________________________________________________________
 ◾ Python (Versão 3.x)
 
-![python_logo.png](python_logo.png)
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ff65ce10-1009-4bd5-b294-2a49497d3727" />
 
 ◾ PyCharm
 
@@ -84,4 +84,5 @@ Observação: a execução também pode ser feita através em uma IDE Python (Ex
 _________________________________________________________
 1. Testes automatizados
 2. Interface gráfica
+
 3. Integração com Banco de Dados
